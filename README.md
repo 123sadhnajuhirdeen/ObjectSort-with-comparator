@@ -52,7 +52,8 @@ For Eg: You have this kind of items in your store.
       item12.setName("IT");
       item12.setPrice(99);
       
-      And you want to sort the item with Alphabatic order and if your item names are same then that group should be sorted with prices, 
+      And you want to sort the item with Alphabatic order and if your item names are same then that group should 
+      be sorted with prices, 
       like this,
       
       Name: 004  Price of Item: 240.0
@@ -69,8 +70,8 @@ For Eg: You have this kind of items in your store.
       Name: MEC  Price of Item: 230.0
       
       
-      Here I used two comparators for this requirement, one is to sort items in alphatical order, and other one is to sort the item with respect to
-      prices
+      Here I used two comparators for this requirement, one is to sort items in alphatical order, 
+      and other one is to sort the item with respect to prices
 
 
       
