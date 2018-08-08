@@ -3,7 +3,8 @@
 
 This is simple java program to sort a java object with two attributes.
 For Eg: You have this kind of items in your store.
-        Item item1 = new Item();
+      
+      Item item1 = new Item();
       item1.setName("ABC");
       item1.setPrice(176);
 
