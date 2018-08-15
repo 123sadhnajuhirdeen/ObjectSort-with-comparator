@@ -57,15 +57,19 @@ For Eg: You have this kind of items in your store.
       like this,
       
       Name: 004  Price of Item: 240.0
+      
       Name: ABC  Price of Item: 130.0
       Name: ABC  Price of Item: 155.0
       Name: ABC  Price of Item: 176.0
+      
       Name: ELECT  Price of Item: 67.0
       Name: ELECT  Price of Item: 99.0
       Name: ELECT  Price of Item: 150.0
       Name: ELECT  Price of Item: 175.0
+      
       Name: IT  Price of Item: 99.0
       Name: IT  Price of Item: 234.0
+      
       Name: MEC  Price of Item: 78.0
       Name: MEC  Price of Item: 230.0
       
